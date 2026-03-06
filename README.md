@@ -1,2 +1,1 @@
-# .github
-Org profile, default templates, and shared config for the m4rd-dev org
+Default community health files and org profile for the m4rd-dev GitHub org.
